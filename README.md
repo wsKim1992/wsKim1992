@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=200&section=header&text=FrontEnd 개발자 김우석&fontSize=90)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=0,2,3&height=200&section=header&text=FrontEnd%20%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EA%B9%80%EC%9A%B0%EC%84%9D%0A&fontSize=35&animation=fadeIn)
 <!--
 **wsKim1992/wsKim1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
